@@ -1,0 +1,6 @@
+# Add these lines to your taskrc
+
+report.tree.description=Tree tasks
+report.tree.sort=depends+
+report.tree.columns=active,id,depends,description
+report.tree.filter=status:pending
