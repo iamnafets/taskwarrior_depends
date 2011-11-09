@@ -1,0 +1,1 @@
+This repository holds some very sloppy scripts for generating trees from taskwarrior dependencies. It's useful for situations where you have a long network of tasks to get to your goal. More details can be found here: http://iamnafets.com/tech/?p=55.
